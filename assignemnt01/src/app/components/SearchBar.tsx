@@ -18,7 +18,7 @@ const SearchBar = () => {
           setLocation(e.target.value);
         }}
       />
-      <button className='rounded bg-red-600 px-9 py-2 text-white'>
+      <button className='rounded bg-black px-9 py-2 text-green-400'>
         Search
       </button>
     </div>
